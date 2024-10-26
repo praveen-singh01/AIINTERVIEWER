@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+/node_modules/
+
+# Ignore metadata directory
+/.metadata/
+
+# Ignore specific application.properties files
+/Backend/IntervuAi/src/main/resources/application.properties
+/Backend/IntervuAi/target/classes/application.properties
+/Backend/IntervuAi/bin/target/classes/application.properties
+/Backend/IntervuAi/bin/src/main/resources/application.properties
